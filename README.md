@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi!
+## I make stuff and hope its cool. 
 
 <!--
 **s-alad/s-alad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
