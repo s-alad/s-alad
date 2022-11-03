@@ -1,4 +1,4 @@
-![alt text](https://github.com/s-alad/s-alad/blob/main/assets/header.png "Logo Title Text 1")
+![alt text](https://github.com/s-alad/s-alad/blob/main/assets/top.png "Logo Title Text 1")
 <!--
 **s-alad/s-alad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
